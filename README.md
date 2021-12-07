@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **sayjava/sayjava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <a href="https://app.daily.dev/raysca"><img src="https://api.daily.dev/devcards/98dfc6558ff74e48a1b0816689d7592d.png?r=xr4" width="400" alt="Raymond's Dev Card"/></a>
